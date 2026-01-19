@@ -5,3 +5,6 @@ My To Do List
 2. EC2 Instance Creation 
 3. Lunch Break 
 4. Github learn and handson 
+5. Session ended 
+6. Return home
+
