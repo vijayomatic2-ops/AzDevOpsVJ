@@ -1,0 +1,7 @@
+
+My To Do List
+
+1. GIT Hub account creation 
+2. EC2 Instance Creation 
+3. Lunch Break 
+4. Github learn and handson 
